@@ -1,0 +1,16 @@
+{
+  "name": "geektrustTrainProblem",
+  "version": "1.0.0",
+  "description": "geektrustTrainProblem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "mocha"
+  },
+  "author": "pavan",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "10.0.0",
+    "chai":"4.3.7"
+  }
+}
